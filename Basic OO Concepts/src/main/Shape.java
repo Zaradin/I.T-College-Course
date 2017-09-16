@@ -9,4 +9,7 @@ public class Shape {
 	}
 	
 	// Class methods
+	public void Draw(){
+		System.out.println("Draw Shape!");
+	}
 }

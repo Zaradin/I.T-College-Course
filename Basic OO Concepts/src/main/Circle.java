@@ -6,4 +6,9 @@ public class Circle extends Shape{
 		// Call Super Class Constructor
 		super();
 	}
+	
+	// Class methods
+		public void Draw(){
+			System.out.println("Draw Circle!");
+		}
 }
