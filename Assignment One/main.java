@@ -1,6 +1,4 @@
-package main;
-
-import java.util.Scanner;
+ import java.util.Scanner;
 /**
  * Write a description of class main here.
  *
